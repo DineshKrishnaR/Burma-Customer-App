@@ -1,0 +1,47 @@
+String base_url = "https://burmaadmin.yetloapps.com/Android_API/Customer_App/api-1.2.1/";
+
+String userLogin = 'login-register.php';
+String newregister = 'login-register.php';
+String registersendotp = 'login-register.php';
+String userregister = 'login-register.php';
+String loginsendotp = 'login-register.php';
+String homebanner = 'account.php';
+String maincategory = 'site_dtl.php';
+String allproducts = 'site_dtl.php';
+String walletdetails = 'site_dtl.php';
+String profiledetails = 'account.php';
+String homefeaturesections = 'sections.php';
+String aboutus = 'settings.php';
+String tamescondictions = 'settings.php';
+String contactus = 'site_dtl.php';
+String gerstatelist = 'account.php';
+String profileupdate = 'account.php';
+String get_section_products = 'get_section_products.php';
+String deleteaccount = 'delete_account.php';
+String getsubcategoryproducts = 'site_dtl.php';
+String manitosubcategory = 'site_dtl.php';
+String deliverypolicy = 'settings.php';
+String privicypolicy = 'settings.php';
+String returnrefundpolicy = 'settings.php';
+String stylecatageory = 'site_dtl.php';
+String getproductdetails = 'site_dtl.php';
+String getnotification = 'site_dtl.php';
+String getviewcart = 'order.php';
+String checkstock = 'site_dtl.php';
+String deliverycharges= 'deliv-charge.php';
+String getrazorpaydetails = 'order.php';
+String razorpayordercreated = 'order.php';
+String getpaymentstatus = 'order.php';
+String getaddress = 'account.php';
+String savedeliveryaddress = 'account.php';
+String getorders = 'order.php';
+String getordersdetails = 'order.php';
+String getinvoice = 'order.php';
+String popupofferimage = 'site_dtl.php';
+String promocodevalidaction = 'order.php';
+String saveorders = 'order.php';
+String getproductvarients = 'variant-attributes-combination.php';
+
+
+String editdeliveryaddress = 'account.php';
+String deleteaddress = 'account.php';
