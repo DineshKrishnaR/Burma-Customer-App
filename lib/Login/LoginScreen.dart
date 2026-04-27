@@ -160,7 +160,7 @@ void startResendTimer() {
                    Align(
           alignment: Alignment.topCenter,
           child: Image.asset(
-            "assets/images/AppLogo.png",
+            "assets/images/AppLogo1.png",
             height: 120,
           ),
         ),
